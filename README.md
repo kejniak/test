@@ -5,4 +5,3 @@
 | Google Drive | xd |
 | OneDrive | xd |
 | Medium | xd |
-| Google Analytics | xd|
